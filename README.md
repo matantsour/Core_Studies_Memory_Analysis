@@ -19,7 +19,7 @@
 <p>&nbsp;</p>
 <h1><span style="text-decoration: underline;">The <span style="color: #0000ff; text-decoration: underline;">Analysis </span>Process:&nbsp;check the code&nbsp;<a href="https://github.com/matantsour/Core_Studies_Memory_Analysis/blob/gh-pages/Core_Studies_Memory_Analysis.ipynb" target="_blank" rel="noopener noreferrer">HERE</a></span></h1>
 <h2 style="text-align: center;">&lt;Skip to the code&nbsp;<a href="https://github.com/matantsour/Core_Studies_Memory_Analysis/blob/gh-pages/Core_Studies_Memory_Analysis.ipynb" target="_blank" rel="noopener noreferrer">HERE</a>&gt;</h2>
-<p><span style="text-decoration: underline;"><strong>1. Acquiring the data:</strong></span><br />Itook the results of 99 responders to the test.<br />The raw data can be accessed from &lt;here&gt;</p>
+<p><span style="text-decoration: underline;"><strong>1. Acquiring the data:</strong></span><br />Itook the results of 99 responders to the test.<br />The raw data can be accessed from &lt;<a href="https://github.com/matantsour/Core_Studies_Memory_Analysis/blob/gh-pages/responses.xlsx?raw=true" target="_blank">here</a>&gt;</p>
 <p><span style="text-decoration: underline;"><strong>2. Cleaning the data:</strong></span></p>
 <p>I&nbsp;needed to clean the rows where the key parameters: Age and Education were not bar conditions were not met.<br />for example, the test didn't take into account adults whose age is between 20-23, and who didn't complete their matriculation&nbsp;exams.</p>
 <p><span style="text-decoration: underline;"><strong>3. Detemine the Individual Memory Quality Score:</strong></span></p>
