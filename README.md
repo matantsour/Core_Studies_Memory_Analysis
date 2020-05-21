@@ -1,6 +1,6 @@
 <h1>"What Do <span style="color: #ff0000;">You&nbsp;</span>Remember From Your H<span dir="ltr">igh School Matriculation Exam ? "</span></h1>
 <p><strong>My name is Matan Tsour.&nbsp;</strong></p>
-<p><strong>This is the title of my intro to pyscology project regarding Working Memory and Long Term Memory.</strong></p>
+<p><strong>This is the title of my intro to psychology project regarding Working Memory and Long Term Memory.</strong></p>
 <h2 style="text-align: center;">&lt;Skip to the code&nbsp;<a href="https://github.com/matantsour/Core_Studies_Memory_Analysis/blob/gh-pages/Core_Studies_Memory_Analysis.ipynb" target="_blank" rel="noopener noreferrer">HERE</a>&gt;</h2>
 <h2><span style="color: #003366;">Introduction</span></h2>
 <p>In this project Working memory is in face, a type of&nbsp;short-term memory.<br />However, instead of all information going into one single store, there are different systems for different types of information .<br /><br />For more information, check <a href="https://www.simplypsychology.org/working%20memory.html" target="_blank" rel="noopener noreferrer">simplypsychology.org</a>.</p>
