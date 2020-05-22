@@ -3,7 +3,7 @@
 <p><strong>This is the title of my intro to psychology project regarding Working Memory and Long Term Memory.</strong></p>
 <h2 style="text-align: center;">&lt;Skip to the code&nbsp;<a href="https://github.com/matantsour/Core_Studies_Memory_Analysis/blob/gh-pages/Core_Studies_Memory_Analysis.ipynb" target="_blank" rel="noopener noreferrer">HERE</a>&gt;</h2>
 <h2><span style="color: #003366;">Introduction</span></h2>
-<p>In this project Working memory is in face, a type of&nbsp;short-term memory.<br />However, instead of all information going into one single store, there are different systems for different types of information .<br /><br />For more information, check <a href="https://www.simplypsychology.org/working%20memory.html" target="_blank" rel="noopener noreferrer">simplypsychology.org</a>.</p>
+<p>In this project Working memory is in fact, a type of&nbsp;short-term memory.<br />However, instead of all information going into one single store, there are different systems for different types of information .<br /><br />For more information, check <a href="https://www.simplypsychology.org/working%20memory.html" target="_blank" rel="noopener noreferrer">simplypsychology.org</a>.</p>
 <p>In this proect,&nbsp;</p>
 <p>I&nbsp;wanted to compare how the proccess of studying for those incredibly intense exams that every Israeli is familiar with from childhood, is differ between two groups:</p>
 <p>Group A: Adults. mostly academic personelle after the age of 23 but less than 28<br />&nbsp;about 5 years to 10 years from completing their matriculation exams.</p>
